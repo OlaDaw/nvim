@@ -7,7 +7,7 @@ This Neovim command is based on NvChad with my personal customizations
 
 ## To uninstall nvim completely from new machine:
 
-'''bash
+```bash
 # Linux / MacOS (unix)
 rm -rf ~/.config/nvim
 rm -rf ~/.local/state/nvim 
@@ -25,6 +25,6 @@ rd -r ~\AppData\Local\nvim-data
 # Windows PowerShell
 rm -Force ~\AppData\Local\nvim
 rm -Force ~\AppData\Local\nvim-data
-'''
+```
 
 
