@@ -1,6 +1,6 @@
 # Notes
 
-This Neovim command is based on NvChad with my personal customizations
+This Neovim command is based on NvChad with my personal customizations. Credits to NVChad.
 
 
 # Tips
